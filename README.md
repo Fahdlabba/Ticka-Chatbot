@@ -5,6 +5,9 @@ What is Ticka :
 Ticka is an online platform that connects users with local artists, allowing them to create and purchase customized products with unique designs.
 Website : https://ticka.world/
 
+## Diagram
+
+![Diagram](https://github.com/Fahdlabba/Ticka-Chatbot/blob/4f988cd72947cd04b98a1f8d960742bd0137b621/Diagram.png)
 
 ## Tech Stack
 
