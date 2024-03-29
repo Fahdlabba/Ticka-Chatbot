@@ -7,7 +7,7 @@ Website : https://ticka.world/
 
 ## Diagram
 
-![Diagram](https://github.com/Fahdlabba/Ticka-Chatbot/blob/4f988cd72947cd04b98a1f8d960742bd0137b621/Diagram.png)
+![Diagram](https://github.com/Fahdlabba/Ticka-Chatbot/blob/558b7fa48c0fb4b45d1eefcb2193296da1e2dd6a/Diagram.png)
 
 ## Tech Stack
 
